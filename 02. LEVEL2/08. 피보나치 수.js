@@ -6,6 +6,6 @@ function solution(n) {
         iterA = iterB;
         iterB = answer
     }
-    return console.log(answer);
+    return answer;
 }
 solution(5)

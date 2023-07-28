@@ -11,6 +11,6 @@ function solution(A, B) {
     for (let i = 0; i < A.length; i++) {
         answer += arr1[i] * arr2[i]
     }
-    return console.log(answer);
+    return answer
 }
 solution([1, 2], [3, 4])

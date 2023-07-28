@@ -10,6 +10,6 @@ function solution(s) {
         s = s.toString(2);
     }
 
-    return console.log(answer);
+    return answer
 }
 solution("110010101001")

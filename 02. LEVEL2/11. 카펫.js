@@ -6,7 +6,6 @@ function solution(brown, yellow) {
             yel.push(i)
         }
     }
-    console.log(yel)
     //노랑이를 소인수분해
     return answer;
 }
